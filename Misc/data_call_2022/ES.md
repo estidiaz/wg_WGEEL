@@ -3,8 +3,12 @@
 -----------------------------------------------------------
 ## Annex 1
 
+integrated
+
 
 ## Annex 2
+
+integrated
 
 ## Annex 3
 * updated 3 values (modified series)
@@ -16,14 +20,20 @@
 
 ## Annex 4
 
-
+integrated
 
 ## Annex 5
 
 
+integrated
+
 ## Annex 6
+
+integrated
 
 
 ## Annex 7
 
-## Annex 8
+integrated
+
+## Annex 10
