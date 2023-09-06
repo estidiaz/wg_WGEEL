@@ -44,11 +44,13 @@
 
 ## Annex 4
 
-
+163 new values added
+3 values updated in the db
+6 values deleted in the db
 
 ## Annex 5
 
-
+1 new values added
 
 ## Annex 6
 
