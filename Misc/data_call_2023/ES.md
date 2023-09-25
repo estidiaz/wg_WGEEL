@@ -9,6 +9,7 @@ no changes
  5 new values inserted in the database
 11 values updated in the db
 Miño has not been received, I´ll try to have it before the group
+MIño 2023 added now
 ### group metrics
  3 and 6 new values inserted in the group and metric tables
   8 and 16 new values modified in the group and metric tables
@@ -44,7 +45,7 @@ no changes
 ## Annex 4
 6 rows deleted
 3 updated 
-163 new
+164 new
 
 ## Annex 5
 1 new
