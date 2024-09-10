@@ -44,10 +44,10 @@
 
 ## Annex 4
 
-
+ 53 new values inserted in the database
 
 ## Annex 5
-
+ 32 new values inserted in the database
 
 
 ## Annex 6
